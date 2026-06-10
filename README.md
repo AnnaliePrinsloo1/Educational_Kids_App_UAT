@@ -1,8 +1,13 @@
 # Educational Kids Neurodevelopment App - UAT Testing Showcase
 
-[![Project Status: Suspended](https://shields.io)](#project-status-notice)
-[![QA Domain: UAT / Beta](https://shields.io)](#test-objectives)
-[![Platform: Android](https://shields.io)](#testing-scope--android-matrix)
+[![ISTQB Certified Tester](https://shields.io/badge/ISTQB-red)](https://scr.istqb.org/?name=Annalie+Prinsloo&number=ZA010123GK0981040&orderBy=relevancy)
+![Static Badge](https://img.shields.io/badge/UAT-Beta-blue)
+![Static Badge](https://img.shields.io/badge/Functional-blue)
+![Static Badge](https://img.shields.io/badge/Usability-blue)
+![Static Badge](https://img.shields.io/badge/Accessibility-blue)
+![Static Badge](https://img.shields.io/badge/BVA-blue)
+![Static Badge](https://img.shields.io/badge/EP-blue)
+![Static Badge](https://img.shields.io/badge/STT-blue)
 
 This application is a specialized Android app engineered to support parents and caregivers of children with neurodevelopmental needs. The app provides structured resources, tracking tools, and interactive content to assist in daily developmental care.
 
